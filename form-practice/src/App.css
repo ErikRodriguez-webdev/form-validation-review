@@ -3,3 +3,7 @@
   text-align: center;
   height: 100vh;
 }
+
+.error {
+  color: #ff3131;
+}
